@@ -4,11 +4,10 @@ header {
     background-position: 0%;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 1188px;
     height: 649px;
 } 
 .container2{
-    padding: 0 200px;
+    padding: 0 140px;
 }
 .header-left{
     margin-top: 150px;
@@ -65,4 +64,8 @@ font-size: 61px;
 .header-bottom hr{
     background-color:  #EE5514;
     width: 2px;
+}
+.btn-buy{
+    height: 45px !important;
+    margin-top: 25px !important;
 }
