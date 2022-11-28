@@ -1,0 +1,68 @@
+
+header {
+    background-image: url(../images/Rectangle\ 37.png);
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1188px;
+    height: 649px;
+} 
+.container2{
+    padding: 0 200px;
+}
+.header-left{
+    margin-top: 150px;
+    width: 50%;
+    float: left;
+}
+.header-left h1{
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+font-weight: 600;
+font-size: 61px;
+}
+.header-left h1 span{
+    color: red;
+}
+.header-img{
+    position: absolute;
+    top: 90px;
+    right: 220px;
+    height: 450px;
+    width: 480px;
+    border: 10px solid pink;
+}
+.next-btn{
+    position: absolute;
+    right: 150px;
+    top: 300px;
+    padding: 10px 17px;
+    background-color: pink;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.next-btn:hover{
+    background-color: red;
+    border: 5px dashed blue;
+    transition: 1s;
+}
+.header-bottom{
+    border-radius: 5px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+}
+.ads h5{
+    display: inline-block;
+    padding: 5px 5px;
+}
+.ads p{
+    opacity: 0.7;
+}
+.header-bottom hr{
+    background-color:  #EE5514;
+    width: 2px;
+}
