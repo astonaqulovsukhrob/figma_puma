@@ -15,3 +15,30 @@
     border-radius: 10px;
 }
 
+/* testimonials styles */
+.testimonials-section {
+    text-align: center;
+   }
+
+.testimonials-section_img {
+   display: flex;
+   padding: 20px;
+}
+
+.testimonials-section_card {
+    position: absolute;
+    width: 1000px;
+    height: 581px;
+    left: 530px;
+    top: 593px;
+   
+}
+
+/* puma styles */
+.puma-section_card {
+    position: absolute;
+    width: 526px;
+    height: 208px;
+    left: 781px;
+   
+} 
