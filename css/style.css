@@ -157,3 +157,25 @@ footer{
     padding: 20px;
     text-align: center;
 }
+.gallary{
+    color: red;
+    font-size: 15%;
+}
+.yosh{
+    font-size: 25px;
+    color: black;
+}
+.navbar{
+    margin-left: -5px;
+    font-size: 10%;
+    gap: 20px;
+}
+
+.button{
+    background-color:#EE5514;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+}
